@@ -1,0 +1,4 @@
+out/
+out2/
+node_modules/
+# local build outputs and tooling are never committed

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MERIDIAN RUN — Sky Ring Rally</title>
+<link rel="icon" href="data:,">
+<style>
+  html, body { margin: 0; padding: 0; background: #06121f; height: 100%; overflow: hidden; }
+  #wrap { display: flex; align-items: center; justify-content: center; height: 100vh; }
+  canvas {
+    display: block; width: min(100vw, 160vh); height: min(100vh, 62.5vw);
+    background: #0a2a4a; box-shadow: 0 0 60px rgba(0,0,0,.6);
+    image-rendering: auto; cursor: default;
+  }
+</style>
+</head>
+<body>
+<div id="wrap"><canvas id="game" width="1280" height="800"></canvas></div>
+<noscript><p style="color:#fff;font-family:sans-serif;text-align:center">MERIDIAN RUN needs JavaScript enabled to fly.</p></noscript>
+<script type="module" src="./src/main.js"></script>
+</body>
+</html>
