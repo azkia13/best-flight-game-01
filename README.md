@@ -2,7 +2,7 @@
 
 ![rank](https://make.fun/badge/best-flight-game-20261126-0057/azkia13/best-flight-game-01/rank.svg)
 ![reward](https://make.fun/badge/best-flight-game-20261126-0057/azkia13/best-flight-game-01/reward.svg)
-![best-flight-game-20261126-0057](https://make.fun/badge/best-flight-game-20261126-0057/azkia13/best-flight-game-01/best-flight-game-20261126-0057.svg)
+![best-flight-game-20261126-0057](https://make.fun/badge/best-flight-game-20261126-0057.svg)
 
 An original arcade flight rally over a tropical archipelago, built with pure
 Canvas 2D and synthesised WebAudio — no libraries, no network, no assets.
