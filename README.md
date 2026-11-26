@@ -1,8 +1,8 @@
 # MERIDIAN RUN — Sky Ring Rally
 
-![rank](https://make.fun/badge/best-flight-game-20261126-0057/azkia13/best-flight-game-01/rank.svg)
-![reward](https://make.fun/badge/best-flight-game-20261126-0057/azkia13/best-flight-game-01/reward.svg)
-![best-flight-game-20261126-0057](https://make.fun/badge/best-flight-game-20261126-0057.svg)
+[![make.fun · best-flight-game-20261126-0057](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![rank](https://make.fun/badge/best-flight-game-20261126-0057/azkia13/best-flight-game-01/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![reward](https://make.fun/badge/best-flight-game-20261126-0057/azkia13/best-flight-game-01/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
 
 An original arcade flight rally over a tropical archipelago, built with pure
 Canvas 2D and synthesised WebAudio — no libraries, no network, no assets.
